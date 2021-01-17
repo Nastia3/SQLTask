@@ -10,8 +10,8 @@ task for ms sqlServer
     - We will have information about users, that includes following fields: Name, Email
     - We will also store rezervations/bookings in our database. User can reserve many rooms. In same time Room can be reserved by many users.
     - Every rezervation has following information: user that performed rezervation, room that is reserved and Start/end date of reservation.
-- 2. Implement SQL script that generates database.
-- 3. Create sql file that contains sql commands that do following:
+- 2.Implement SQL script that generates database.
+- 3.Create sql file that contains sql commands that do following:
     - [x] 1) Add 3 hotels to DB, one with name 'Edelweiss’
     - [x] 2) Get All hotels from DB
     - [x] 3) Update first hotel foundation year from existing value to 1937
