@@ -19,7 +19,7 @@ task for ms sqlServer
     - [x]5) Insert 10 users to Database, but have at least 2 users with Name Andrew or Anton
     - [x]6) Get all users which name starts from "A"
     - [x]7) Insert 10 rooms in DB. 7 to first hotel and 3 to other. Make sure both hotels have room number 101. Make sure 'Edelweiss' has room number 301, but other hotel no. Also make sure 'Edelweiss' do not have rooms with comfort level 3, but second hotel has at least one room with such comfort level
-   - [x]8) Select All rooms from DB sorted by Price
+   - [x] 8) Select All rooms from DB sorted by Price
     - [x]9) Select All rooms from DB that belong to 'Edelweiss' hotel and sorted by price
     - [x]10) Select Hotels that have rooms with comfort level 3
     - [x]11) Select Hotelname and room number for rooms that have comfort level 1
